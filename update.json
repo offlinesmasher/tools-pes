@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
+  "version": "1.3",
   "title": "Transfer Scraper",
-  "download_url": "https://www.dropbox.com/scl/fi/7lljmhi4e09vtfrhhsrfh/Transfer-Scraper.zip?rlkey=uazo986xm2c32lfp4h2d2hvqd&st=f7934011&dl=1",
+  "download_url": "https://www.dropbox.com/scl/fi/uhfg8sspneegps8htej3v/Transfer-Scraper-v1.2.3.zip?rlkey=uzdg9ka041905uofmnhyxi7av&st=b23ouyfd&dl=1",
   "changelog": [
     "Fix Transfermarkt Blocking",
     "Fix Coach Fotmob Resolution Bug"
