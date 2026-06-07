@@ -1,9 +1,10 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "title": "Transfer Scraper",
-  "download_url": "https://www.dropbox.com/scl/fi/uhfg8sspneegps8htej3v/Transfer-Scraper-v1.2.3.zip?rlkey=uzdg9ka041905uofmnhyxi7av&st=b23ouyfd&dl=1",
+  "download_url": "https://www.dropbox.com/scl/fi/827v6kw16arln9cmxq21x/Transfer-Scraper-v1.2.4.zip?rlkey=fj3qcgg67p8mfz69gea4pgt0e&st=j8ouiaxh&dl=1",
   "changelog": [
-    "Fix Transfermarkt Blocking",
-    "Fix Coach Fotmob Resolution Bug"
+    "Cache Chooser Feature Added",
+    "Rescrape Feature With Right Click",
+    "Improve UI For Better Experience"
   ]
 }
